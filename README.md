@@ -2,7 +2,6 @@
 
 ## Sobre Mim
 
-Escreva uma breve apresentação sobre você.
 
 Tenho 25 anos, trabalho há anos na indústria no chão de fábrica porém sempre tive interesse na área de tecnologia. Estou cursando desenvolvimento de sistemas e pretendo trabalhar na área.
 
